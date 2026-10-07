@@ -41,12 +41,13 @@ https://github.com/shanna007/Software-Engineering.git
 pip install -r requirements.txt
 ```
 ### 2.配置环境变量
-在.env填入你的ARK_API_KEY、BASE_URL、LLM_MODEL等信息，示例如下：
+复制.env.example为.env，填入你的ARK_API_KEY、BASE_URL、LLM_MODEL等信息，示例如下：
 ```bash
 ARK_API_KEY=xxx
 BASE_URL=https://ark.cn-beijing.volces.com/api/v3
 LLM_MODEL=ep-xxxx
 ```
 ### 3.运行
+```
 python main.py
-
+```
