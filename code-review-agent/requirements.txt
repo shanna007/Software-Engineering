@@ -1,0 +1,10 @@
+langgraph==1.2.12
+openai==3.24.0
+python-dotenv==1.2.4
+tenacity==9.1.4
+alita-tools==0.0.0
+langchain-core==1.6.7
+langchain-core-aipy==0.3.47
+gigachain-openai==0.1.22
+langchain-openai==1.6.7
+langchain-openai-aipy==0.3.9
