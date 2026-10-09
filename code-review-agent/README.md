@@ -25,7 +25,7 @@ code-review-agent/
 │   └── agent.py       # Agent核心逻辑
 ├── main.py            # 程序入口
 ├── requirements.txt   # 依赖清单
-├── .env               # 环境变量示例
+├── .env.example       # 环境变量示例
 ├── README.md          # 使用文档
 └── Design.md          # 设计文档
 ```
