@@ -32,7 +32,7 @@ code-review-agent/
 
 ## 代码仓库地址
 ```
-https://github.com/shanna007/Software-Engineering.git
+https://github.com/shanna007/Software-Engineering/tree/main/code-review-agent
 ```
 
 ## 快速开始
